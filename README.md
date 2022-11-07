@@ -1,3 +1,4 @@
-# REPOSITORIO DE ESTUDO COM CURSOS DE ESTUDO
-repositorio criado para colocar projetos de estudos 
-Proprietario:Otávio Duarte Sá
+# Pagina Netflix
+
+Esse e um dos meus primeiros projetos.
+Nesse projeto foi utilizado HTML, CSS e JavaScript
